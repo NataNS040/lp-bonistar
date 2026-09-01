@@ -1,0 +1,314 @@
+{
+  "desktop-1440x900": {
+    "title": "Bonito/MS | Planeje sua viagem com a Em Bonito MS",
+    "h1Count": 1,
+    "dimensions": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "scrollHeight": 10795
+    },
+    "imageStatus": [
+      {
+        "src": "/images/hero/bonito-aguas-cristalinas.jpg",
+        "loaded": true,
+        "rendered": [
+          1440,
+          900
+        ]
+      },
+      {
+        "src": "/images/destino/nascente-aerea.jpg",
+        "loaded": true,
+        "rendered": [
+          504,
+          590
+        ]
+      },
+      {
+        "src": "/images/destino/peixes-submersos.jpg",
+        "loaded": true,
+        "rendered": [
+          468,
+          490
+        ]
+      },
+      {
+        "src": "/images/experiencias/flutuacao-grupo.jpg",
+        "loaded": true,
+        "rendered": [
+          504,
+          320
+        ]
+      },
+      {
+        "src": "/images/experiencias/gruta-lago-azul.jpg",
+        "loaded": true,
+        "rendered": [
+          504,
+          320
+        ]
+      },
+      {
+        "src": "/images/experiencias/cachoeira.jpg",
+        "loaded": true,
+        "rendered": [
+          504,
+          320
+        ]
+      },
+      {
+        "src": "/images/experiencias/rio-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          504,
+          320
+        ]
+      },
+      {
+        "src": "/images/destino/banho-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          1440,
+          810
+        ]
+      },
+      {
+        "src": "/images/experiencias/barco-rio.jpg",
+        "loaded": true,
+        "rendered": [
+          500,
+          740
+        ]
+      },
+      {
+        "src": "/images/experiencias/flutuacao-peixes.jpg",
+        "loaded": true,
+        "rendered": [
+          1200,
+          700
+        ]
+      },
+      {
+        "src": "/images/destino/final-rio-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          1440,
+          820
+        ]
+      }
+    ],
+    "emptyLinks": 0,
+    "ctaCount": 6,
+    "mainLandmark": true,
+    "navLandmark": true,
+    "errors": []
+  },
+  "tablet-768x1024": {
+    "title": "Bonito/MS | Planeje sua viagem com a Em Bonito MS",
+    "h1Count": 1,
+    "dimensions": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "scrollHeight": 11336
+    },
+    "imageStatus": [
+      {
+        "src": "/images/hero/bonito-aguas-cristalinas.jpg",
+        "loaded": true,
+        "rendered": [
+          768,
+          1024
+        ]
+      },
+      {
+        "src": "/images/destino/nascente-aerea.jpg",
+        "loaded": true,
+        "rendered": [
+          508,
+          418
+        ]
+      },
+      {
+        "src": "/images/destino/peixes-submersos.jpg",
+        "loaded": true,
+        "rendered": [
+          420,
+          336
+        ]
+      },
+      {
+        "src": "/images/experiencias/flutuacao-grupo.jpg",
+        "loaded": true,
+        "rendered": [
+          690,
+          310
+        ]
+      },
+      {
+        "src": "/images/experiencias/gruta-lago-azul.jpg",
+        "loaded": true,
+        "rendered": [
+          690,
+          310
+        ]
+      },
+      {
+        "src": "/images/experiencias/cachoeira.jpg",
+        "loaded": true,
+        "rendered": [
+          690,
+          310
+        ]
+      },
+      {
+        "src": "/images/experiencias/rio-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          690,
+          310
+        ]
+      },
+      {
+        "src": "/images/destino/banho-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          768,
+          740
+        ]
+      },
+      {
+        "src": "/images/experiencias/barco-rio.jpg",
+        "loaded": true,
+        "rendered": [
+          736,
+          600
+        ]
+      },
+      {
+        "src": "/images/experiencias/flutuacao-peixes.jpg",
+        "loaded": true,
+        "rendered": [
+          736,
+          620
+        ]
+      },
+      {
+        "src": "/images/destino/final-rio-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          768,
+          720
+        ]
+      }
+    ],
+    "emptyLinks": 0,
+    "ctaCount": 6,
+    "mainLandmark": true,
+    "navLandmark": true,
+    "errors": []
+  },
+  "mobile-390x844": {
+    "title": "Bonito/MS | Planeje sua viagem com a Em Bonito MS",
+    "h1Count": 1,
+    "dimensions": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "scrollHeight": 11808
+    },
+    "imageStatus": [
+      {
+        "src": "/images/hero/bonito-aguas-cristalinas.jpg",
+        "loaded": true,
+        "rendered": [
+          390,
+          844
+        ]
+      },
+      {
+        "src": "/images/destino/nascente-aerea.jpg",
+        "loaded": true,
+        "rendered": [
+          247,
+          418
+        ]
+      },
+      {
+        "src": "/images/destino/peixes-submersos.jpg",
+        "loaded": true,
+        "rendered": [
+          204,
+          336
+        ]
+      },
+      {
+        "src": "/images/experiencias/flutuacao-grupo.jpg",
+        "loaded": true,
+        "rendered": [
+          312,
+          310
+        ]
+      },
+      {
+        "src": "/images/experiencias/gruta-lago-azul.jpg",
+        "loaded": true,
+        "rendered": [
+          312,
+          310
+        ]
+      },
+      {
+        "src": "/images/experiencias/cachoeira.jpg",
+        "loaded": true,
+        "rendered": [
+          312,
+          310
+        ]
+      },
+      {
+        "src": "/images/experiencias/rio-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          312,
+          310
+        ]
+      },
+      {
+        "src": "/images/destino/banho-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          390,
+          740
+        ]
+      },
+      {
+        "src": "/images/experiencias/barco-rio.jpg",
+        "loaded": true,
+        "rendered": [
+          358,
+          600
+        ]
+      },
+      {
+        "src": "/images/experiencias/flutuacao-peixes.jpg",
+        "loaded": true,
+        "rendered": [
+          358,
+          620
+        ]
+      },
+      {
+        "src": "/images/destino/final-rio-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          390,
+          720
+        ]
+      }
+    ],
+    "emptyLinks": 0,
+    "ctaCount": 6,
+    "mainLandmark": true,
+    "navLandmark": true,
+    "errors": []
+  }
+}
