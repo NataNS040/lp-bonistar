@@ -4,7 +4,9 @@ const path = require('path');
 
 (async () => {
   const outDir = path.resolve('audit/v2');
+  const previewDir = path.join(outDir, 'previews');
   fs.mkdirSync(outDir, { recursive: true });
+  fs.mkdirSync(previewDir, { recursive: true });
   const browser = await chromium.launch({ headless: true });
   const profiles = [
     { name: 'desktop-1440x900', viewport: { width: 1440, height: 900 }, isMobile: false },
@@ -31,6 +33,7 @@ const path = require('path');
       await new Promise((resolve) => setTimeout(resolve, 350));
     });
     await page.screenshot({ path: path.join(outDir, `${profile.name}.png`), fullPage: true });
+    await page.screenshot({ path: path.join(previewDir, `${profile.name}.jpg`), type: 'jpeg', quality: 72, fullPage: true });
     report[profile.name] = await page.evaluate(() => ({
       title: document.title,
       h1Count: document.querySelectorAll('h1').length,

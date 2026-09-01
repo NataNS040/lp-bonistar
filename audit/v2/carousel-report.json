@@ -1,0 +1,34 @@
+{
+  "dotCount": 5,
+  "slideCount": 5,
+  "slides": [
+    {
+      "requested": 0,
+      "active": 0,
+      "source": "/images/hero/barco-cristalino.jpg"
+    },
+    {
+      "requested": 1,
+      "active": 1,
+      "source": "/images/hero/flutuacao-aerea.jpg"
+    },
+    {
+      "requested": 2,
+      "active": 2,
+      "source": "/images/hero/contemplacao-rio.jpg"
+    },
+    {
+      "requested": 3,
+      "active": 3,
+      "source": "/images/hero/cardume-cristalino.jpg"
+    },
+    {
+      "requested": 4,
+      "active": 4,
+      "source": "/images/hero/cachoeira-viajante.jpg"
+    }
+  ],
+  "swipeActive": 1,
+  "autoplayAdvanced": true,
+  "reducedMotionStayedStill": true
+}

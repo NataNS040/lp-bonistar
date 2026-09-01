@@ -5,19 +5,59 @@
     "dimensions": {
       "scrollWidth": 1440,
       "clientWidth": 1440,
-      "scrollHeight": 10795
+      "scrollHeight": 14191
     },
     "imageStatus": [
       {
-        "src": "/images/hero/bonito-aguas-cristalinas.jpg",
+        "src": "/images/brand/logo-bonistar.png",
         "loaded": true,
         "rendered": [
-          1440,
-          900
+          44,
+          48
         ]
       },
       {
-        "src": "/images/destino/nascente-aerea.jpg",
+        "src": "/images/hero/barco-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          1442,
+          901
+        ]
+      },
+      {
+        "src": "/images/hero/flutuacao-aerea.jpg",
+        "loaded": true,
+        "rendered": [
+          1464,
+          915
+        ]
+      },
+      {
+        "src": "/images/hero/contemplacao-rio.jpg",
+        "loaded": true,
+        "rendered": [
+          1466,
+          916
+        ]
+      },
+      {
+        "src": "/images/hero/cardume-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          1466,
+          916
+        ]
+      },
+      {
+        "src": "/images/hero/cachoeira-viajante.jpg",
+        "loaded": true,
+        "rendered": [
+          1466,
+          916
+        ]
+      },
+      {
+        "src": "/images/story/rio-aereo.jpg",
         "loaded": true,
         "rendered": [
           504,
@@ -25,7 +65,7 @@
         ]
       },
       {
-        "src": "/images/destino/peixes-submersos.jpg",
+        "src": "/images/story/mergulho-solo.jpg",
         "loaded": true,
         "rendered": [
           468,
@@ -33,7 +73,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/flutuacao-grupo.jpg",
+        "src": "/images/experiences/flutuacao-grupo.jpg",
         "loaded": true,
         "rendered": [
           504,
@@ -41,7 +81,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/gruta-lago-azul.jpg",
+        "src": "/images/experiences/gruta-lago-azul.jpg",
         "loaded": true,
         "rendered": [
           504,
@@ -49,7 +89,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/cachoeira.jpg",
+        "src": "/images/experiences/cachoeira-caminho.jpg",
         "loaded": true,
         "rendered": [
           504,
@@ -57,7 +97,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/rio-cristalino.jpg",
+        "src": "/images/experiences/nascente-aerea.jpg",
         "loaded": true,
         "rendered": [
           504,
@@ -65,7 +105,7 @@
         ]
       },
       {
-        "src": "/images/destino/banho-cristalino.jpg",
+        "src": "/images/story/piscina-natural.jpg",
         "loaded": true,
         "rendered": [
           1440,
@@ -73,7 +113,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/barco-rio.jpg",
+        "src": "/images/story/aventura-circuito.jpg",
         "loaded": true,
         "rendered": [
           500,
@@ -81,7 +121,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/flutuacao-peixes.jpg",
+        "src": "/images/story/rio-vertical.jpg",
         "loaded": true,
         "rendered": [
           1200,
@@ -89,11 +129,107 @@
         ]
       },
       {
-        "src": "/images/destino/final-rio-cristalino.jpg",
+        "src": "/images/gallery/cardume.jpg",
+        "loaded": true,
+        "rendered": [
+          693,
+          508
+        ]
+      },
+      {
+        "src": "/images/gallery/trilha-aventura.jpg",
+        "loaded": true,
+        "rendered": [
+          491,
+          377
+        ]
+      },
+      {
+        "src": "/images/gallery/nascente-aberta.jpg",
+        "loaded": true,
+        "rendered": [
+          491,
+          508
+        ]
+      },
+      {
+        "src": "/images/gallery/casal-deck.jpg",
+        "loaded": true,
+        "rendered": [
+          389,
+          508
+        ]
+      },
+      {
+        "src": "/images/gallery/cachoeira-floresta.jpg",
+        "loaded": true,
+        "rendered": [
+          491,
+          508
+        ]
+      },
+      {
+        "src": "/images/gallery/deck-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          288,
+          508
+        ]
+      },
+      {
+        "src": "/images/gallery/cachoeira-intima.jpg",
+        "loaded": true,
+        "rendered": [
+          389,
+          508
+        ]
+      },
+      {
+        "src": "/images/gallery/rio-esmeralda.jpg",
+        "loaded": true,
+        "rendered": [
+          795,
+          508
+        ]
+      },
+      {
+        "src": "/images/story/balneario-calmo.jpg",
+        "loaded": true,
+        "rendered": [
+          1200,
+          420
+        ]
+      },
+      {
+        "src": "/images/story/encontro-com-peixes.jpg",
+        "loaded": true,
+        "rendered": [
+          477,
+          670
+        ]
+      },
+      {
+        "src": "/images/story/grupo-flutuacao.jpg",
+        "loaded": true,
+        "rendered": [
+          384,
+          350
+        ]
+      },
+      {
+        "src": "/images/story/rio-final.jpg",
         "loaded": true,
         "rendered": [
           1440,
           820
+        ]
+      },
+      {
+        "src": "/images/brand/logo-bonistar.png",
+        "loaded": true,
+        "rendered": [
+          64,
+          70
         ]
       }
     ],
@@ -101,7 +237,9 @@
     "ctaCount": 6,
     "mainLandmark": true,
     "navLandmark": true,
-    "errors": []
+    "errors": [
+      "request: http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=6642d22e — net::ERR_ABORTED"
+    ]
   },
   "tablet-768x1024": {
     "title": "Bonito/MS | Planeje sua viagem com a Em Bonito MS",
@@ -109,11 +247,19 @@
     "dimensions": {
       "scrollWidth": 768,
       "clientWidth": 768,
-      "scrollHeight": 11336
+      "scrollHeight": 13759
     },
     "imageStatus": [
       {
-        "src": "/images/hero/bonito-aguas-cristalinas.jpg",
+        "src": "/images/brand/logo-bonistar.png",
+        "loaded": true,
+        "rendered": [
+          40,
+          44
+        ]
+      },
+      {
+        "src": "/images/hero/barco-cristalino.jpg",
         "loaded": true,
         "rendered": [
           768,
@@ -121,7 +267,39 @@
         ]
       },
       {
-        "src": "/images/destino/nascente-aerea.jpg",
+        "src": "/images/hero/flutuacao-aerea.jpg",
+        "loaded": true,
+        "rendered": [
+          782,
+          1042
+        ]
+      },
+      {
+        "src": "/images/hero/contemplacao-rio.jpg",
+        "loaded": true,
+        "rendered": [
+          782,
+          1042
+        ]
+      },
+      {
+        "src": "/images/hero/cardume-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          782,
+          1042
+        ]
+      },
+      {
+        "src": "/images/hero/cachoeira-viajante.jpg",
+        "loaded": true,
+        "rendered": [
+          782,
+          1042
+        ]
+      },
+      {
+        "src": "/images/story/rio-aereo.jpg",
         "loaded": true,
         "rendered": [
           508,
@@ -129,7 +307,7 @@
         ]
       },
       {
-        "src": "/images/destino/peixes-submersos.jpg",
+        "src": "/images/story/mergulho-solo.jpg",
         "loaded": true,
         "rendered": [
           420,
@@ -137,7 +315,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/flutuacao-grupo.jpg",
+        "src": "/images/experiences/flutuacao-grupo.jpg",
         "loaded": true,
         "rendered": [
           690,
@@ -145,7 +323,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/gruta-lago-azul.jpg",
+        "src": "/images/experiences/gruta-lago-azul.jpg",
         "loaded": true,
         "rendered": [
           690,
@@ -153,7 +331,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/cachoeira.jpg",
+        "src": "/images/experiences/cachoeira-caminho.jpg",
         "loaded": true,
         "rendered": [
           690,
@@ -161,7 +339,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/rio-cristalino.jpg",
+        "src": "/images/experiences/nascente-aerea.jpg",
         "loaded": true,
         "rendered": [
           690,
@@ -169,7 +347,7 @@
         ]
       },
       {
-        "src": "/images/destino/banho-cristalino.jpg",
+        "src": "/images/story/piscina-natural.jpg",
         "loaded": true,
         "rendered": [
           768,
@@ -177,7 +355,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/barco-rio.jpg",
+        "src": "/images/story/aventura-circuito.jpg",
         "loaded": true,
         "rendered": [
           736,
@@ -185,7 +363,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/flutuacao-peixes.jpg",
+        "src": "/images/story/rio-vertical.jpg",
         "loaded": true,
         "rendered": [
           736,
@@ -193,11 +371,107 @@
         ]
       },
       {
-        "src": "/images/destino/final-rio-cristalino.jpg",
+        "src": "/images/gallery/cardume.jpg",
+        "loaded": true,
+        "rendered": [
+          676,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/trilha-aventura.jpg",
+        "loaded": true,
+        "rendered": [
+          599,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/nascente-aberta.jpg",
+        "loaded": true,
+        "rendered": [
+          599,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/casal-deck.jpg",
+        "loaded": true,
+        "rendered": [
+          599,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/cachoeira-floresta.jpg",
+        "loaded": false,
+        "rendered": [
+          676,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/deck-cristalino.jpg",
+        "loaded": false,
+        "rendered": [
+          599,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/cachoeira-intima.jpg",
+        "loaded": false,
+        "rendered": [
+          599,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/rio-esmeralda.jpg",
+        "loaded": false,
+        "rendered": [
+          676,
+          520
+        ]
+      },
+      {
+        "src": "/images/story/balneario-calmo.jpg",
+        "loaded": true,
+        "rendered": [
+          736,
+          310
+        ]
+      },
+      {
+        "src": "/images/story/encontro-com-peixes.jpg",
+        "loaded": true,
+        "rendered": [
+          736,
+          620
+        ]
+      },
+      {
+        "src": "/images/story/grupo-flutuacao.jpg",
+        "loaded": true,
+        "rendered": [
+          736,
+          440
+        ]
+      },
+      {
+        "src": "/images/story/rio-final.jpg",
         "loaded": true,
         "rendered": [
           768,
           720
+        ]
+      },
+      {
+        "src": "/images/brand/logo-bonistar.png",
+        "loaded": true,
+        "rendered": [
+          59,
+          64
         ]
       }
     ],
@@ -213,11 +487,19 @@
     "dimensions": {
       "scrollWidth": 390,
       "clientWidth": 390,
-      "scrollHeight": 11808
+      "scrollHeight": 14227
     },
     "imageStatus": [
       {
-        "src": "/images/hero/bonito-aguas-cristalinas.jpg",
+        "src": "/images/brand/logo-bonistar.png",
+        "loaded": true,
+        "rendered": [
+          40,
+          44
+        ]
+      },
+      {
+        "src": "/images/hero/barco-cristalino.jpg",
         "loaded": true,
         "rendered": [
           390,
@@ -225,7 +507,39 @@
         ]
       },
       {
-        "src": "/images/destino/nascente-aerea.jpg",
+        "src": "/images/hero/flutuacao-aerea.jpg",
+        "loaded": true,
+        "rendered": [
+          397,
+          859
+        ]
+      },
+      {
+        "src": "/images/hero/contemplacao-rio.jpg",
+        "loaded": true,
+        "rendered": [
+          397,
+          859
+        ]
+      },
+      {
+        "src": "/images/hero/cardume-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          397,
+          859
+        ]
+      },
+      {
+        "src": "/images/hero/cachoeira-viajante.jpg",
+        "loaded": true,
+        "rendered": [
+          397,
+          859
+        ]
+      },
+      {
+        "src": "/images/story/rio-aereo.jpg",
         "loaded": true,
         "rendered": [
           247,
@@ -233,7 +547,7 @@
         ]
       },
       {
-        "src": "/images/destino/peixes-submersos.jpg",
+        "src": "/images/story/mergulho-solo.jpg",
         "loaded": true,
         "rendered": [
           204,
@@ -241,7 +555,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/flutuacao-grupo.jpg",
+        "src": "/images/experiences/flutuacao-grupo.jpg",
         "loaded": true,
         "rendered": [
           312,
@@ -249,7 +563,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/gruta-lago-azul.jpg",
+        "src": "/images/experiences/gruta-lago-azul.jpg",
         "loaded": true,
         "rendered": [
           312,
@@ -257,7 +571,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/cachoeira.jpg",
+        "src": "/images/experiences/cachoeira-caminho.jpg",
         "loaded": true,
         "rendered": [
           312,
@@ -265,7 +579,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/rio-cristalino.jpg",
+        "src": "/images/experiences/nascente-aerea.jpg",
         "loaded": true,
         "rendered": [
           312,
@@ -273,7 +587,7 @@
         ]
       },
       {
-        "src": "/images/destino/banho-cristalino.jpg",
+        "src": "/images/story/piscina-natural.jpg",
         "loaded": true,
         "rendered": [
           390,
@@ -281,7 +595,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/barco-rio.jpg",
+        "src": "/images/story/aventura-circuito.jpg",
         "loaded": true,
         "rendered": [
           358,
@@ -289,7 +603,7 @@
         ]
       },
       {
-        "src": "/images/experiencias/flutuacao-peixes.jpg",
+        "src": "/images/story/rio-vertical.jpg",
         "loaded": true,
         "rendered": [
           358,
@@ -297,11 +611,107 @@
         ]
       },
       {
-        "src": "/images/destino/final-rio-cristalino.jpg",
+        "src": "/images/gallery/cardume.jpg",
+        "loaded": true,
+        "rendered": [
+          343,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/trilha-aventura.jpg",
+        "loaded": true,
+        "rendered": [
+          304,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/nascente-aberta.jpg",
+        "loaded": true,
+        "rendered": [
+          304,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/casal-deck.jpg",
+        "loaded": true,
+        "rendered": [
+          304,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/cachoeira-floresta.jpg",
+        "loaded": true,
+        "rendered": [
+          343,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/deck-cristalino.jpg",
+        "loaded": true,
+        "rendered": [
+          304,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/cachoeira-intima.jpg",
+        "loaded": false,
+        "rendered": [
+          304,
+          520
+        ]
+      },
+      {
+        "src": "/images/gallery/rio-esmeralda.jpg",
+        "loaded": false,
+        "rendered": [
+          343,
+          520
+        ]
+      },
+      {
+        "src": "/images/story/balneario-calmo.jpg",
+        "loaded": true,
+        "rendered": [
+          358,
+          310
+        ]
+      },
+      {
+        "src": "/images/story/encontro-com-peixes.jpg",
+        "loaded": true,
+        "rendered": [
+          358,
+          620
+        ]
+      },
+      {
+        "src": "/images/story/grupo-flutuacao.jpg",
+        "loaded": true,
+        "rendered": [
+          358,
+          440
+        ]
+      },
+      {
+        "src": "/images/story/rio-final.jpg",
         "loaded": true,
         "rendered": [
           390,
           720
+        ]
+      },
+      {
+        "src": "/images/brand/logo-bonistar.png",
+        "loaded": true,
+        "rendered": [
+          59,
+          64
         ]
       }
     ],
