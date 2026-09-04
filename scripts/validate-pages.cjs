@@ -25,14 +25,20 @@ const path = require('path');
 
     const response = await page.goto(target, { waitUntil: 'networkidle', timeout: 60000 });
     await page.evaluate(async () => {
+      document.querySelectorAll('img').forEach((image) => { image.loading = 'eager'; });
       for (let y = 0; y < document.body.scrollHeight; y += Math.max(500, innerHeight * 0.75)) {
         scrollTo(0, y);
         await new Promise((resolve) => setTimeout(resolve, 100));
       }
-      for (const track of document.querySelectorAll('.live__track,.gallery__grid,.quotes')) {
-        track.scrollLeft = track.scrollWidth;
-        await new Promise((resolve) => setTimeout(resolve, 300));
+      for (const image of document.images) {
+        image.scrollIntoView({ block: 'center', inline: 'center' });
+        await new Promise((resolve) => setTimeout(resolve, 80));
       }
+      await Promise.all([...document.images].map((image) => image.complete ? Promise.resolve() : new Promise((resolve) => {
+        image.addEventListener('load', resolve, { once: true });
+        image.addEventListener('error', resolve, { once: true });
+        setTimeout(resolve, 15000);
+      })));
       scrollTo(0, 0);
       await new Promise((resolve) => setTimeout(resolve, 500));
     });
